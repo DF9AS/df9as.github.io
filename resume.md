@@ -3,6 +3,9 @@ layout: resume
 menuorder: 3
 menutitle: CV
 ---
+
+Short summary: University -> Industry -> University -> ?
+
 ## Currently
 
 PhD Student, Physics Institute Goethe-University Frankfurt
