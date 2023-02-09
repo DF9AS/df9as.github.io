@@ -1,46 +1,30 @@
 ---
 layout: resume
 menuorder: 3
-menutitle: Resume
+menutitle: CV
 ---
 ## Currently
 
-Current Position Description
+PhD Student
 
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+`2007 - 2012`
+__Goethe-University Frankfurt__
+B.Sc.
 
-`1995 - 1997`
-__University Name__
-Degree Awarded 
+`2012 - 2015`
+__Goethe-University Frankfurt__
+M.Sc.
 
-## Awards
-
-`2012`
-Name of Award, Organization 
 
 ## Publications
 
-<!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+<-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
 ### Journals
 
-`1994`
-Article Title, Journal Title
 
-`1994`
-Article Title, Journal Title
-
-### Books
-
-`1994`
-Book Title, Journal Title
-
-`1994`
-Book Title, Journal Title
 
 
 ## Presentations
@@ -52,21 +36,18 @@ Presentation Title, Conference, <a href="https://MyWebsite.tld/presentation1">Li
 ## Occupation
 
 `Current`
-__Current Job Title__, Current Employer 
+__PhD Student__, Goethe-University 
+Researcher in the Transregio Project A04 of [TRR288](https://transregio288.org/)
 
-- Task
-- Task
+`2017 - 2020`
+__Senior Development Engineer__, Techem Energy Services GmbH 
 
-`1994-1996`
-__Current Job Title__, Current Employer 
-
-- Task
-- Task
+`2016 - 2017`
+__Quality Engineer__, Techem Energy Services GmbH 
 
 
 
-<!-- ### Footer
 
-Last updated: May 2013 -->
+<-- Last updated: January 2023 -->
 
 
