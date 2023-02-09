@@ -26,16 +26,13 @@ M.Sc.
 ### Journals
 
 `2022`
-Clamping effect on temperature-induced valence transition in epitaxial EuPd2Si2 thin films grown on MgO(001),
-Phys. Rev. Materials
+Clamping effect on temperature-induced valence transition in epitaxial EuPd2Si2 thin films grown on MgO(001), Phys. Rev. Materials
 
 `2022`
-Vanadium and Manganese Carbonyls as Precursors in Electron-Induced and Thermal Deposition Processes,
-Nanomaterials
-`
+Vanadium and Manganese Carbonyls as Precursors in Electron-Induced and Thermal Deposition Processes, Nanomaterials
+
 `2021`
-Direct Writing of Cobalt Silicide Nanostructures Using Single-Source Precursors,
-ACS Applied Materials & Interfaces  
+Direct Writing of Cobalt Silicide Nanostructures Using Single-Source Precursors, ACS Applied Materials & Interfaces  
 
 ### Patents
 
