@@ -5,12 +5,19 @@ menutitle: Home
 menuorder: 1
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 ## Current Interests and Projects:
 
-- Lorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
-- DLorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
+- Do-it-Yourself VSM Magnetometry for low temperatures and thin films.
+- Ferromagnetic Resonance at epitaxial thin films of valence transition compounds.
+- Surface Acoustic Waves.
+
+## Former Interests and Projects
+
+- Optimization of heating systems in multi-family houses.
+- Rapid prototyping for optimized heater control.
+
+## Hobbies
+
+- 3D printing
+- Amateur Radio
