@@ -1,20 +1,20 @@
 # Site wide configuration
 
-title: Site Title
-locale: en_US
+title: DF9AS
+locale: de_de
 logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Your Name
+  name: Alfons Schuck
   avatar: bio-photo.jpg
-  bio: "A brief description of yourself."
+  bio: "scientist"
   email: #emailaddress
   # Do not include the @ symbol in your Twitter username
   twitter: #username
   linkedin: #username
   github: #username
-  orcid: # ID Number (ex. 0000-0000-0000-0000)
+  orcid: # 0000-0001-5199-2415
   researchgate: #username
   mendeley: #username
   google:
